@@ -1,0 +1,103 @@
+/* Test style */
+body {
+    font-family: 'Roboto', 'Segoe UI', 'Arial', sans-serif;
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: #ffffff;
+    margin: 0;
+    padding: 20px;
+    width: 400px;
+    min-height: 300px;
+}
+
+/* Rest of your CSS styles */
+h1 {
+    color: #ffffff;
+    /* Changed from #ffffff44 to make it fully opaque */
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 28px;
+    font-weight: 700;
+    /* Changed from 300 to 700 for bolder text */
+    letter-spacing: 1px;
+}
+
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 2px;
+    background-color: #1a1a1a;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: center;
+    font-size: 12px;
+}
+
+th {
+    background-color: #333;
+    color: #fff;
+    font-weight: bold;
+}
+
+td {
+    color: #fff;
+}
+
+.heatmap-cell {
+    transition: background-color 0.3s ease;
+}
+
+tr {
+    background-color: rgba(255, 255, 255, 0.05);
+    transition: all 0.3s ease;
+    border-radius: 5px;
+}
+
+tr:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+td {
+    font-size: 14px;
+}
+
+td:first-child {
+    font-weight: 500;
+}
+
+.positive-change {
+    color: #4cd137;
+}
+
+.negative-change {
+    color: #e84118;
+}
+
+#error-message {
+    color: #e84118;
+    text-align: center;
+    margin-top: 20px;
+    font-style: italic;
+    font-size: 14px;
+}
+
+/* Add some subtle animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#crypto-table {
+    animation: fadeIn 0.5s ease-out;
+}

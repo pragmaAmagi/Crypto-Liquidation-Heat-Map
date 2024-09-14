@@ -1,5 +1,4 @@
 # Crypto Liquidation Heat Map
-Chrome Extension Icon: 
 ![icon](https://github.com/user-attachments/assets/00a9327b-7f2e-4de2-beb3-582024871c09)
 
 

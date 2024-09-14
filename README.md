@@ -1,4 +1,7 @@
 # Crypto Liquidation Heat Map
+Chrome Extension Icon: 
+![icon](https://github.com/user-attachments/assets/00a9327b-7f2e-4de2-beb3-582024871c09)
+
 
 ## Description
 Crypto Liquidation Heat Map is a Chrome extension that provides real-time visualization of cryptocurrency price changes. It displays the top 10 cryptocurrencies by market cap, showing their current prices and 24-hour price changes in an easy-to-read heat map format.

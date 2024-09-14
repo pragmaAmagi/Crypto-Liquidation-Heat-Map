@@ -18,6 +18,9 @@ Crypto Liquidation Heat Map is a Chrome extension that provides real-time visual
 ## Usage
 Click on the extension icon in your Chrome toolbar to view the current cryptocurrency heat map.
 
+![Screenshot 2024-09-14 162850](https://github.com/user-attachments/assets/c1dd9044-c10d-4c63-8903-e977faad484a)
+
+
 ## Technologies Used
 - HTML5
 - CSS3

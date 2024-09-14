@@ -31,7 +31,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contact
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - https://x.com/cauleneamagi
 
 Project Link: [https://github.com/yourusername/crypto-liquidation-heatmap](https://github.com/yourusername/crypto-liquidation-heatmap)
 
